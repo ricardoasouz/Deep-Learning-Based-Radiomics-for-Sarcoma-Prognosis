@@ -1,0 +1,13 @@
+name: radiomics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - nibabel
+  - simpleitk
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - seaborn
+  - jupyterlab
+  - pip
